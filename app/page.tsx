@@ -34,6 +34,7 @@ export default function Page() {
         <EducationSection />
         <AchievementsSection />
       </main>
+      <ContactFooter />
     </div>
   )
 }
